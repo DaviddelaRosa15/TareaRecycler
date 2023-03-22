@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alimentos</string>
+    <string name="all">TODO</string>
+    <string name="name">Arroz</string>
+    <string name="form_title">Nuevo Alimento</string>
+    <string name="name_age">Edad</string>
+    <string name="name_name">Nombre de Alimento</string>
+    <string name="title_add">Nuevo Alimento</string>
+    <string name="title_edit">Datos del Alimento</string>
+    <string name="save">Guardar</string>
+</resources>
